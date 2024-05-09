@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="chat_now">Chat Now</string>
+    <string name="button">Button</string>
+    <string name="answer_message">The answer is %d</string>
+
+</resources>
